@@ -1,0 +1,15 @@
+C:\Users\Мария\Desktop\GB ДЗ\HW CS\Zadacha008\bin\Debug\net7.0\Zadacha008.exe
+C:\Users\Мария\Desktop\GB ДЗ\HW CS\Zadacha008\bin\Debug\net7.0\Zadacha008.deps.json
+C:\Users\Мария\Desktop\GB ДЗ\HW CS\Zadacha008\bin\Debug\net7.0\Zadacha008.runtimeconfig.json
+C:\Users\Мария\Desktop\GB ДЗ\HW CS\Zadacha008\bin\Debug\net7.0\Zadacha008.dll
+C:\Users\Мария\Desktop\GB ДЗ\HW CS\Zadacha008\bin\Debug\net7.0\Zadacha008.pdb
+C:\Users\Мария\Desktop\GB ДЗ\HW CS\Zadacha008\obj\Debug\net7.0\Zadacha008.csproj.AssemblyReference.cache
+C:\Users\Мария\Desktop\GB ДЗ\HW CS\Zadacha008\obj\Debug\net7.0\Zadacha008.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мария\Desktop\GB ДЗ\HW CS\Zadacha008\obj\Debug\net7.0\Zadacha008.AssemblyInfoInputs.cache
+C:\Users\Мария\Desktop\GB ДЗ\HW CS\Zadacha008\obj\Debug\net7.0\Zadacha008.AssemblyInfo.cs
+C:\Users\Мария\Desktop\GB ДЗ\HW CS\Zadacha008\obj\Debug\net7.0\Zadacha008.csproj.CoreCompileInputs.cache
+C:\Users\Мария\Desktop\GB ДЗ\HW CS\Zadacha008\obj\Debug\net7.0\Zadacha008.dll
+C:\Users\Мария\Desktop\GB ДЗ\HW CS\Zadacha008\obj\Debug\net7.0\refint\Zadacha008.dll
+C:\Users\Мария\Desktop\GB ДЗ\HW CS\Zadacha008\obj\Debug\net7.0\Zadacha008.pdb
+C:\Users\Мария\Desktop\GB ДЗ\HW CS\Zadacha008\obj\Debug\net7.0\Zadacha008.genruntimeconfig.cache
+C:\Users\Мария\Desktop\GB ДЗ\HW CS\Zadacha008\obj\Debug\net7.0\ref\Zadacha008.dll
